@@ -5,3 +5,7 @@
     background-color: rgb(0, 57, 65);
     transition: all 1s ease;
   }
+
+  .altura-col-icono {
+      height: 100px
+  }
